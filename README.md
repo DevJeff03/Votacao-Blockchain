@@ -1,13 +1,17 @@
-# Sample Hardhat Project
+# Projeto TCC
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+## Apresentação do código utilizado no meu TCC "Eleições Brasileiras e Blockchain: Um Estudo Sobre a Aplicabilidade e
+Viabilidade da Tecnologia".
 
-Try running some of the following tasks:
+Implenmentado na rede de testes da Ethereum (Sepolia).
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+Com os métodos: 
+
+* gerenciamento da votação;
+* deploy do contrato utilizado;
+* Cadastro de candidatos;
+* Votação;
+
+Contanto com proteções como não poder iniciar a votação sem candidatos cadastrados, não podendo haver duplicidade de votos com o mesmo endereço de Smart-Wallet, votos não podem ser computados sem o inicio da votação.
+
+O mesmo se tornou indispensável ao meu aprendizado mais aprofundado sobre a tecnologia além de servir como base teórica para futuros trabalhos. Este TCC foi premiado como o melhor Artigo Acadêmico do Semestre dos cursos de TI no Centro Universitário de Excelência Eniac.
