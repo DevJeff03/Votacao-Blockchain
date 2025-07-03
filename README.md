@@ -1,7 +1,6 @@
 # Projeto TCC
 
-## Apresentação do código utilizado no meu TCC "Eleições Brasileiras e Blockchain: Um Estudo Sobre a Aplicabilidade e
-Viabilidade da Tecnologia".
+## Apresentação do código utilizado no meu TCC "Eleições Brasileiras e Blockchain: Um Estudo Sobre a Aplicabilidade e Viabilidade da Tecnologia".
 
 Implenmentado na rede de testes da Ethereum (Sepolia).
 
